@@ -1,0 +1,8 @@
+import { Connection, Keypair, LAMPORTS_PER_SOL } from
+    "@solana/web3.js"
+
+let kp = Keypair.generate()
+
+console.log(`You've generated a new Solana wallet:
+${kp.publicKey.toBase58()}
+[${kp.secretKey}]`)
