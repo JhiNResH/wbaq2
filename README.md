@@ -1,4 +1,4 @@
-# WBA-solanaQ1
+# WBA-solanaQ2
 
 ## PDA(Program Derived Address)
 PDAs are not technically created. Rather, they are found or derived based on a program ID and one or more input seeds.
